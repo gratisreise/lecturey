@@ -1,4 +1,4 @@
-package _00_SOLID._03_liskov_substitution.ex01;
+package _00_SOLID._03_liskov_substitution.ex01.ncomp;
 
 //부모 클래스 새
 public class Bird {

@@ -1,4 +1,4 @@
-package _00_SOLID._03_liskov_substitution.ex01;
+package _00_SOLID._03_liskov_substitution.ex01.ncomp;
 
 /**문제점
  * 펭귄 클래스는 새클래스의 모든 역할을 수행하지 못한다

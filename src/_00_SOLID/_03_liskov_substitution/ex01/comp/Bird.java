@@ -1,4 +1,4 @@
-package _00_SOLID._03_liskov_substitution.ex02;
+package _00_SOLID._03_liskov_substitution.ex01.comp;
 
 //Base class Bird
 public class Bird {

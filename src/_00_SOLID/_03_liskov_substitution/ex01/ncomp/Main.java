@@ -1,4 +1,4 @@
-package _00_SOLID._03_liskov_substitution.ex01;
+package _00_SOLID._03_liskov_substitution.ex01.ncomp;
 
 public class Main {
 
