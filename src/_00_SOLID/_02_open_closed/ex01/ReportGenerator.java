@@ -4,7 +4,7 @@ public class ReportGenerator {
 
     /**문제점
      * 새로운 포멧 추가시 메서드 수정해야한다.
-     * @param type
+     * 그럼에도 불가하고 추가하면 => 무한정 메소드가 복잡해진다.
      */
     public void generateReport(String type){
         if(type.equals("PDF")){
